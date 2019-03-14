@@ -1,6 +1,6 @@
 //LINKED LISTS 
 
-class Main {
+class LinkedListmain {
    
   public static void main(String[] args) {
  
