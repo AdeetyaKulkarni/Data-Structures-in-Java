@@ -1,5 +1,5 @@
 class Main {
-  public static void main(String[] args) {
+  public static void Queuemain(String[] args) {
     
     Queue list = new Queue();
     list.push(list, 0);//0
